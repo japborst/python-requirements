@@ -10,4 +10,5 @@ scipy
 seaborn
 statsmodels
 tabulate
+tensorflow
 tqdm
